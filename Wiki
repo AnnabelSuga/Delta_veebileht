@@ -1,1 +1,3 @@
-
+Meie loodava veebilehe eesmärk on tutvustada Delta õppehoonet ning erialasid, mida Delta hoones õppida saab.
+Lisaks muule olulisele infole leiab meie veebilehelt ka erialadel õppivate tudengite ausad hinnangud oma erialale.
+Tiimiliikmed: Annabel Suga, Karl Laine, Eliise Alop.
