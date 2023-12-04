@@ -75,7 +75,7 @@ body {
 }
 
 .Tagasiside img {
-  max-width: 100%; 
+  max-width: 50%; 
   height: auto;
   border: 2px solid #422800;
 }
