@@ -1,0 +1,69 @@
+body {background-color:black;}
+h1{ text-align: center;font-family: serif, Calibri, 'Trebuchet MS', sans-serif , sans-serif;border-collapse: collapse;width: 100%;text-transform: uppercase;}
+h2{text-align: center; text-transform: uppercase;color: aliceblue;font-family: serif;}
+header{
+    background-color: #fbeee0;
+    color: #422800;
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+button {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    }
+  
+    button:hover {
+    background-color: darkgoldenrod;
+    }
+  
+    button:active {
+    box-shadow: #422800 2px 2px 0 0;
+    transform: translate(2px, 2px);
+    }
+  
+  
+    button {
+    min-width: 120px;
+    padding: 0 25px;
+    }
+
+
+div{
+    margin: 0 45px;
+    padding: 25px ;
+    color: #422800;
+    font-weight: 500;
+    white-space: normal;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    background-color: whitesmoke;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+footer{
+    background-color:#fbeee0;
+            color: #422800;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+}
