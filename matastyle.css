@@ -75,10 +75,11 @@ body {
 }
 
 .Tagasiside img {
-  max-width: 100%; 
+  max-width: 99%; 
   height: auto;
   border: 2px solid #422800;
 }
+
 footer{
     background-color:#fbeee0;
             color: #422800;
