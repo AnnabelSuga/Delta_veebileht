@@ -1,3 +1,5 @@
-Meie loodava veebilehe eesmärk on tutvustada Delta õppehoonet ning erialasid, mida Delta hoones õppida saab.
-Lisaks muule olulisele infole leiab meie veebilehelt ka erialadel õppivate tudengite ausad hinnangud oma erialale.
+Meie loodava veebilehe eesmärk on tutvustada Delta õppehoonet ning olulisemaid erialasid, mida Delta hoones õppida saab (matemaatiline statistika, informaatika ja majandus).
+Lisaks muule olulisele infole leiab meie veebilehelt ka erialadel õppivate tudengite ausad arvamused oma õppekavast.
 Tiimiliikmed: Annabel Suga, Karl Laine, Eliise Alop.
+Tiimisisene tööjaotus oli selline, et majanduse vaheleht oli Eliise vastutuseks, matemaatilise statistika vahelehe eest vastutas Karl ning informaatika vahelehe eest vastutas Annabel.
+Pealehe ja css-faili kallal töötati kõik koos.
